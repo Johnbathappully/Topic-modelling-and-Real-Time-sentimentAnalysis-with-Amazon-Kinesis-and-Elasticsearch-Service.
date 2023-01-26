@@ -38,4 +38,19 @@ Perform Topic Modeling
 Hint: Use scikit-learn provided Latent Dirchlette Allocation (LDA) and Non-Negative Matrix Factorization (NMF).
 
  
+#Real-Time Analytics on Streaming Data with Amazon Kinesis and Amazon Elasticsearch Service
 
+Analysis to be done: Collect and store streaming data, use Amazon Kinesis Analytics to process and analyze the streaming data, apply machine learning algorithm to detect anomalies in the system.
+
+Steps to perform:
+
+Create Kinesis delivery stream
+Simulate streaming application to detect anomalies
+Open Elasticsearch service and create a new domain
+Configure Kinesis Firehose to export the results to Amazon ES
+Update the buffer size and existing IAM role for the process
+Open the Amazon Kinesis Analytics console and create a new application
+Connect to the source for further analysis
+Launch SQL_Editor and start the application
+Load the processed data into Kinesis Firehose delivery stream
+Visualize the data using Kibana
