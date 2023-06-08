@@ -5,8 +5,6 @@ The dataset has attributes like brand, categories, primary categories, reviews.t
 You are required to predict Sentiment or Satisfaction of a purchase based on multiple features and review text.
 
 
-
-
 Class Imbalance Problem:
 Perform an EDA on the dataset.
 See what a positive, negative, and neutral review looks like
